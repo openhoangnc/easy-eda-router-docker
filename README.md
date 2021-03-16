@@ -1,4 +1,4 @@
-# easy-eda-router-docker
+# Local Auto Router for EasyEDA
 
 ## Run
 ```bash
